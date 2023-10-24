@@ -1,0 +1,19 @@
+.indispo {
+    position: absolute;
+    background-color: transparent; /* Define uma cor de fundo com transparência */
+    backdrop-filter: blur(9px);
+    border-color: white;
+    border: 2px;
+    border-style: solid;
+    width: 30vw;
+    height: 20vw;
+    margin-left: 31vw;
+    margin-top: 8vw;
+    text-align: center;
+    padding: 5vw;
+}
+
+.h22 {
+    color: white;
+    padding-top: 7vw;
+}
